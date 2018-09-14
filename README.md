@@ -1,2 +1,2 @@
 # tech
-tech
+Tech repository
